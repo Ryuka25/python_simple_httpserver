@@ -1,5 +1,7 @@
 # README
 
+This is a simple containerized app used to serve JSON.
+
 ## Build Step
 
 ```sh
