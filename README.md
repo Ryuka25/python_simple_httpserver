@@ -20,3 +20,5 @@ docker run -p 8080:8080 ryuka25/python_simple_httpserver
 ```sh
 docker run -p 8080:8080 -v /$(pwd)/test/custom:/app/api ryuka25/python_simple_httpserver
 ```
+
+🎉 For now you can access your server under: `http://localhost:8080/`
